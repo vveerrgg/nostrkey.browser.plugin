@@ -108,7 +108,7 @@ Extension uses background service worker + sidepanel UI. Mobile apps (iOS/Androi
 Plausible (privacy-friendly, cookieless) on all public docs pages. Script: `pa-IB1d6aIMpkIZgRxSc6Med.js`.
 
 ## Related Repos
-- `nostrkey.app.OC-python.src` — Python SDK for AI entities (v0.2.0, `pip install nostrkey`)
+- `nostrkey.app.OC-python.src` — Python SDK for AI entities (`pip install nostrkey`)
 - `nostrkey.app.ios.src` — iOS app (WKWebView wrapper)
 - `nostrkey.app.android.src` — Android app (WebView wrapper)
 - `nostrkey.bizdocs.src` — business strategy docs
